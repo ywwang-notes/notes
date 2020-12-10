@@ -1,4 +1,7 @@
-* Proposal
-  * Drosha-DiGeorge syndrome critical region gene 8 (DGCR8)
-  * RNA induced silencing complex
-  * [MicroRNA-directed cleavage of targets: mechanism and experimental approaches](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4206712/)
+* Investigation of heart development and regeneration-related microRNAs
+  * key terms: 
+  Drosha-DiGeorge syndrome critical region gene 8 (DGCR8); 
+  RNA induced silencing complex; [Argonaute](https://en.wikipedia.org/wiki/Argonaute); 
+  [deadenylation](https://reactome.org/content/detail/R-HSA-429947); 
+  * papers:
+  [MicroRNA-directed cleavage of targets: mechanism and experimental approaches](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4206712/); 
