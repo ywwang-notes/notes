@@ -4,4 +4,4 @@
   1. Labs: Chiang‐Ting Chien (NTNU), 
 * µManager
   * [case 1](https://github.com/vanNimwegenLab/MiM_NikonTi/blob/master/Docs/NikonTi_hardware_triggering.md)
-  * [case 2](https://www.nature.com/articles/s41598-019-48455-z#Sec16)
+  * case 2: [article](https://www.nature.com/articles/s41598-019-48455-z#Sec16) and [github](https://github.com/mjc449/SAIMscannerV3)
