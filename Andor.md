@@ -7,4 +7,5 @@
 * May be useful
   * [Where I got the driver pack](https://mdc.custhelp.com/app/answers/detail/a_id/20299/~/imagexpress%E2%AE%3A-driver-updates-for-updating-to-metaxpress%E2%AE-6.5-and-above)
   * [Andor SDK for a price](https://andor.oxinst.com/products/software-development-kit/software-development-kit#product-information-tabs)
+  * [People who used Driver Pack 3](https://openspim.org/pipermail/openspim/2015-January/001561.html)
   
