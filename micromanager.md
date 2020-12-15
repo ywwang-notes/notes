@@ -3,3 +3,4 @@
   1. [Windows](https://www.scivision.dev/andor-neo-windows-sdk3-install/)
   1. Labs: Chiang‐Ting Chien (NTNU), 
 * Notes: µManager
+  * [for flow control](https://github.com/vanNimwegenLab/MiM_NikonTi/blob/master/Docs/NikonTi_hardware_triggering.md)
