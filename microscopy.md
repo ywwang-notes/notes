@@ -12,5 +12,7 @@
   * [Hardware-triggering with Micro-Manager](https://github.com/vanNimwegenLab/MiM_NikonTi/blob/master/Docs/NikonTi_hardware_triggering.md)
   * [High-speed device synchronization in optical microscopy with an open-source hardware control platform](https://www.nature.com/articles/s41598-019-48455-z#Sec16) 
     and [github](https://github.com/mjc449/SAIMscannerV3)
+* Data
+  * .lof file in [LAS-X](https://www.leica-microsystems.com/company/news/news-details/article/pharma-software-free-download-of-las-x/), Hyugen.
 * Labs
   * NTU: [孫啟光](http://gipo.ntu.edu.tw/p6student-5-detail2.php?sn=25&is_manage=0&title_code=)
