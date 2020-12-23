@@ -1,7 +1,7 @@
 * To do: 
   * Auto-focus
   * Auto-exposure
-* Andor Zyla
+* [Andor Zyla](https://github.com/ywwang-notes/notes/blob/master/Andor.md)
   1. [Linux SDK](https://lima1.readthedocs.io/en/latest/camera/andor3/doc/): need to build and install
   1. [Windows](https://www.scivision.dev/andor-neo-windows-sdk3-install/)
   1. Labs: Chiang‐Ting Chien (NTNU)
