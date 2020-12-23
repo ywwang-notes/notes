@@ -8,7 +8,7 @@
   1. Labs: Chiang‐Ting Chien (NTNU)
 * µManager (micro-manager)
   * Find my scripts [here](https://github.com/ywwang-notes/MicroManager)
-  * [case 1](https://github.com/vanNimwegenLab/MiM_NikonTi/blob/master/Docs/NikonTi_hardware_triggering.md)
+  * [Hardware-triggering with Micro-Manager](https://github.com/vanNimwegenLab/MiM_NikonTi/blob/master/Docs/NikonTi_hardware_triggering.md)
   * case 2: [article](https://www.nature.com/articles/s41598-019-48455-z#Sec16) and [github](https://github.com/mjc449/SAIMscannerV3)
 * Labs
   * NTU: [孫啟光](http://gipo.ntu.edu.tw/p6student-5-detail2.php?sn=25&is_manage=0&title_code=)
