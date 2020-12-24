@@ -6,3 +6,4 @@ for taking notes
 * Calcium imaging
 * reading the grant proposal
 * capture speed
+* Z position
