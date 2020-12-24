@@ -5,3 +5,4 @@ for taking notes
 * Gibson Assembly
 * Calcium imaging
 * reading the grant proposal
+* capture speed
