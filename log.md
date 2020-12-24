@@ -1,9 +1,14 @@
 * Backup
   * Tool: EaseUS Dodo backup
   * D:\My Backups
+  
+* Random stuff
+  * [Primer design](https://www.ncbi.nlm.nih.gov/tools/primer-blast/)
+  * [NCBI](https://www.ncbi.nlm.nih.gov/)
 
 * Louis
   * Gibson Assembly
+
 * Jean
   * [Andrew L. Miller](https://life-sci.ust.hk/team/andrew-l-miller/)
 
