@@ -7,7 +7,7 @@
 * Jean
   * [Andrew L. Miller](https://life-sci.ust.hk/team/andrew-l-miller/)
 
-<details><summary>Work log</summary>
+<details><summary>Weekly log</summary>
 <p>
  
 ### 2020
