@@ -9,4 +9,4 @@ for taking notes
 * Z position & autofocus
 
 ## currently learning...
-* [YouTube demo](https://www.youtube.com/channel/UCiobBP6iDHd6bC2wwbidhWQ) and [普生實驗2010](https://sites.google.com/site/cgubcstdexp2/Home/shi-yan-jiang-yi)
+* [YouTube demo](https://www.youtube.com/channel/UCiobBP6iDHd6bC2wwbidhWQ) and [生化實驗2010](https://sites.google.com/site/cgubcstdexp2/Home/shi-yan-jiang-yi)
