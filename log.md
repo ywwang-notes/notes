@@ -16,6 +16,7 @@
   * [Computational 3D histological phenotyping of whole zebrafish by X-ray histotomography](https://elifesciences.org/articles/44898)
   * Medical Physics
   * Key terms: projection, reconstruction, artifect reduction, energy (穿透率)
+  * Data: 8 & 2x GBs (reconstruct & raw)
 
 <details><summary>Weekly log</summary>
 <p>
