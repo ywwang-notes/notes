@@ -14,6 +14,8 @@
 
 * CT cafe (CT scanning with 1 micron)
   * [Computational 3D histological phenotyping of whole zebrafish by X-ray histotomography](https://elifesciences.org/articles/44898)
+  * Medical Physics
+  * Key terms: projection, reconstruction, artifect reduction, energy (穿透率)
 
 <details><summary>Weekly log</summary>
 <p>
