@@ -1,8 +1,18 @@
+<details><summary>Weekly log</summary>
+<p>
+
+### 2020
+* 12/10-11: 報到，任務釐清
+* 12/14-18: setup micro-manager, basic feature tests
+* 12/21-25: Z stage setup; auto-exposure; CT cafe (delta micro CT)
+* 12/28-31: auto-focus; burst acquisition; 
+</p></details>
+
 * Backup
   * Tool: EaseUS Dodo backup
   * D:\My Backups
-  
-* Random stuff
+
+* Tools and databases
   * [Primer design](https://www.ncbi.nlm.nih.gov/tools/primer-blast/)
   * [NCBI](https://www.ncbi.nlm.nih.gov/)
 
@@ -18,13 +28,4 @@
   * Key terms: projection, reconstruction, artifect reduction, energy (穿透率)
   * Data: 8 & 2x GBs (reconstruct & raw)
 
-<details><summary>Weekly log</summary>
-<p>
- 
-### 2020
-* 12/10-11: 報到，任務釐清
-* 12/14-18: setup micro-manager, basic feature tests
-* 12/21-25: Z stage setup; auto-exposure; CT cafe (delta micro CT)
-* 12/28-31: auto-focus; burst acquisition; 
-</p></details>
 
