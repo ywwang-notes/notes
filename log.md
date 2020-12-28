@@ -1,4 +1,4 @@
-<details><summary>Weekly log</summary>
+* <details><summary>Weekly log</summary>
 <p>
 
 ### 2020
