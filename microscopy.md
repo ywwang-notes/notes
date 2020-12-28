@@ -22,6 +22,7 @@
   1. [Windows](https://www.scivision.dev/andor-neo-windows-sdk3-install/)
   1. Labs: Chiang‐Ting Chien (NTNU)
 * µManager (micro-manager)
+  * [Forum](https://forum.image.sc/top/weekly) (login with Github)
   * Find my scripts [here](https://github.com/ywwang-notes/MicroManager)
   * [Hardware-triggering with Micro-Manager](https://github.com/vanNimwegenLab/MiM_NikonTi/blob/master/Docs/NikonTi_hardware_triggering.md)
   * [High-speed device synchronization in optical microscopy with an open-source hardware control platform](https://www.nature.com/articles/s41598-019-48455-z#Sec16) 
