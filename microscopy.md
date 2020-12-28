@@ -11,7 +11,9 @@
   * [software tools](https://www.uab.edu/vsrc/vsrc-links)
   * PSF image: 
     * [create](https://visibledark.ca/pixinsight-deconvolution-psf-image-creator/)
-    * [Huygens PSF Distiller](https://svi.nl/Huygens-PSF-Distiller): waiting for licence; [instructions](https://zmb.dozuki.com/Guide/Image+Deconvolution+using+SVI+Huygens/20)
+    * [Huygens PSF Distiller](https://svi.nl/Huygens-PSF-Distiller): waiting for licence; 
+      [instructions](https://zmb.dozuki.com/Guide/Image+Deconvolution+using+SVI+Huygens/20); 
+      [user guide](https://depts.washington.edu/digmicro/huygens_pdf/ProfessionalUserGuide1505.pdf)
   
 * [Andor Zyla](https://github.com/ywwang-notes/notes/blob/master/Andor.md)
   1. [Linux SDK](https://lima1.readthedocs.io/en/latest/camera/andor3/doc/): need to build and install
