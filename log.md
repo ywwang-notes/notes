@@ -8,7 +8,7 @@
 * 12/28-31: auto-focus; burst acquisition; 
 </p></details>
 
-### For record
+### For a record
 
 * Backup
   * Tool: EaseUS Dodo backup
