@@ -9,8 +9,9 @@
     [open source](https://www.sciencedirect.com/science/article/pii/S1046202316305096#f0005); 
     optical sectioning
   * [software tools](https://www.uab.edu/vsrc/vsrc-links)
-  * PSF image: [create](https://visibledark.ca/pixinsight-deconvolution-psf-image-creator/); 
-    [Huygens PSF Distiller](https://svi.nl/Huygens-PSF-Distiller): waiting for licence
+  * PSF image: 
+    * [create](https://visibledark.ca/pixinsight-deconvolution-psf-image-creator/)
+    * [Huygens PSF Distiller](https://svi.nl/Huygens-PSF-Distiller): waiting for licence; [instructions](https://zmb.dozuki.com/Guide/Image+Deconvolution+using+SVI+Huygens/20)
   
 * [Andor Zyla](https://github.com/ywwang-notes/notes/blob/master/Andor.md)
   1. [Linux SDK](https://lima1.readthedocs.io/en/latest/camera/andor3/doc/): need to build and install
