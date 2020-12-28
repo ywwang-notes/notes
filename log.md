@@ -24,6 +24,7 @@
 ### 2020
 * 12/10-11: 報到，任務釐清
 * 12/14-18: setup micro-manager, basic feature tests
-* 12/21-25: 
+* 12/21-25: Z stage setup; auto-exposure; CT cafe (delta micro CT)
+* 12/28-31: auto-focus; burst acquisition; 
 </p></details>
 
