@@ -1,8 +1,9 @@
 * To do: 
   * Auto-focus: definitely need to move Z position
-  * Auto-exposure
-  * Check if MDA file contains scripts
-  * check [LAS X](https://webshare.leica-microsystems.com/latest/core/widefield/)
+* Done:
+  * Auto-exposure: done
+  * Check if MDA file contains scripts: only contains settings
+  * check [LAS X](https://webshare.leica-microsystems.com/latest/core/widefield/): should use Huygen for .lof, .lif, lifext
 * Learning: 
   * [Calibration of Wide-Field Deconvolution Microscopy for Quantitative Fluorescence Imaging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3942261/#:~:text=Deconvolution%20enhances%20contrast%20in%20fluorescence,of%20features%20within%20the%20sample.&text=Afterwards%2C%20the%20mean%20intensities%20and,the%20deconvolved%20images%20were%20measured.)
   * [deconvolution](https://micro.magnet.fsu.edu/primer/digitalimaging/deconvolution/deconvolutionhome.html); 
