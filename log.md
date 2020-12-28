@@ -1,4 +1,4 @@
-* <details><summary>Weekly log</summary>
+<details><summary>Weekly log</summary>
 <p>
 
 ### 2020
@@ -7,6 +7,8 @@
 * 12/21-25: Z stage setup; auto-exposure; CT cafe (delta micro CT)
 * 12/28-31: auto-focus; burst acquisition; 
 </p></details>
+
+### For record
 
 * Backup
   * Tool: EaseUS Dodo backup
