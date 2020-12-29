@@ -1,3 +1,4 @@
+* 稀釋需先加少量的濃液再加水
 * [PBS](https://en.wikipedia.org/wiki/Phosphate-buffered_saline) (見配藥本)
 * 4% PFA solution
   * 製備: 1xPBS 25ml + 1g Paraformaldehyde powder, 水浴 72度C 加熱，intermittently mix with [vortexer](https://en.wikipedia.org/wiki/Vortex_mixer)
