@@ -1,4 +1,5 @@
 * To do: 
+  * 拍照測速 (理論值30fps)
   * unit calibration
 * Done:
   * Auto-exposure: done
