@@ -5,9 +5,8 @@ for taking notes
 * Gibson Assembly
 * Calcium imaging
 * reading the grant proposal
-* capture speed
 * [microscopy](https://github.com/ywwang-notes/notes/blob/master/microscopy.md)
-* BitFlow version conflict (install iQ3 in virtual machine)
 
 ## currently learning...
 * [YouTube demo](https://www.youtube.com/channel/UCiobBP6iDHd6bC2wwbidhWQ) and [生化實驗2010](https://sites.google.com/site/cgubcstdexp2/Home/shi-yan-jiang-yi)
+* [Monarch Initiative](https://monarchinitiative.org/)
