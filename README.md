@@ -4,7 +4,7 @@ for taking notes
 ## currently working on...
 * Heart development
 * reading the grant proposal
-* G
+* Gino's thesis
 * Gibson Assembly
 * Calcium imaging
 * [microscopy](https://github.com/ywwang-notes/notes/blob/master/microscopy.md): documentation
