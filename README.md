@@ -6,6 +6,7 @@ for taking notes
 * reading the grant proposal
 * Gino's thesis
 * miRNA NGS
+  * [FastQC](https://www.youtube.com/watch?v=bz93ReOv87Y)
 
 ### Resuming
 * microscopy: evaluate [Huygens](https://svi.nl/Tutorials)
