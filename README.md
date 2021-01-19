@@ -6,7 +6,9 @@ for taking notes
 * reading the grant proposal
 * Gino's thesis
 * miRNA NGS
-  * [FastQC](https://www.youtube.com/watch?v=bz93ReOv87Y)
+  * FastQC [tutorial](https://www.youtube.com/watch?v=bz93ReOv87Y), 
+    [training](https://www.bioinformatics.babraham.ac.uk/training.html), 
+    [help](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/)
 
 ### Resuming
 * microscopy: evaluate [Huygens](https://svi.nl/Tutorials)
