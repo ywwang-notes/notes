@@ -12,5 +12,5 @@
 * example
 ```
 for file in *.pdf; do pdftotext -layout "$file" "txt/$(basename $file .pdf).txt"; echo $file; done
-for file in dre*; do sed 's/^ *//' "$file" >> dre.txt; echo $file; done
+for file in *.txt; do awk '/\../ {print $1 "\t" $2}' $file | sed 's/\.//g' | tr [:lower:] [:upper:] | sed 's/^ *//' >> dre.txt; echo $file; done # 
 ```
