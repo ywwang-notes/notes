@@ -5,3 +5,5 @@
 * fastq to tabbed table: `cat filename.fastq | paste - - - - > filename.txt`
 * pattern matching: `awk '/some pattern/ {Actions}' filename`
   * `awk '/CCCC/' {print $1 "\t" $3}' filename.txt`
+* misc
+  * `sed 's/^ *//' output.txt | more`
