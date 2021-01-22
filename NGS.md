@@ -11,6 +11,6 @@
   * `for file in *.pdf; do pdftotext -layout "$file" "$(basename $file .pdf).txt"; done`
 * example
 ```
-for file in *.pdf; do pdftotext -layout "$file" "txt/$(basename $file .pdf).txt"; done
+for file in *.pdf; do pdftotext -layout "$file" "txt/$(basename $file .pdf).txt"; echo $file; done
 for file in dre*; do sed 's/^ *//' "$file" >> dre.txt; echo $file; done
 ```
