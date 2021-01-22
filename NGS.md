@@ -8,3 +8,4 @@
 * misc
   * `sed 's/^ *//' output.txt | more`
   * `awk '/\../ {print $1 "\t" $2}' output.txt | sed 's/\.//g' | tr [:lower:] [:upper:] | more`
+  * `for file in *.pdf; do pdftotext "$file" "$file.txt"; done`
