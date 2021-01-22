@@ -7,4 +7,4 @@
   * `awk '/CCCC/' {print $1 "\t" $3}' filename.txt`
 * misc
   * `sed 's/^ *//' output.txt | more`
-  * `awk '/\../ {print $1 "\t" $2}' output.txt | sed 's/\.//g' | more`
+  * `awk '/\../ {print $1 "\t" $2}' output.txt | sed 's/\.//g' | tr [:lower:] [:upper:] | more`
