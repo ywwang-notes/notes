@@ -12,5 +12,6 @@
 * example
 ```
 for file in *.pdf; do pdftotext -layout "$file" "txt/$(basename $file .pdf).txt"; echo $file; done
-for file in *.txt; do awk '/\../ {print $1 "\t" $2}' $file | sed 's/\.//g' | tr [:lower:] [:upper:] | sed 's/^ *//' >> dre.txt; echo $file; done # 
+for file in *.txt; do sed 's/^ *//' $file | awk '/\../ {print $1 "\t" $2}' | sed 's/\.//g' | tr [:lower:] [:upper:] >> dre.txt; echo $file; done
+# 1. ignore blank; b. select ... lines; c. remove "..."; d. capitalize sequences
 ```
