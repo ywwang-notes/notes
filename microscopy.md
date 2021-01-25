@@ -1,6 +1,6 @@
 * To do: 
   * Time stamp
-    * Option > save metadata as text
+    * Bio-Formats importer -> check "OME-XML" -> see deltaT
     * How to overlay deltaT on video? 
   * unit calibration
 * Done:
