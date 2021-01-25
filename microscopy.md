@@ -2,7 +2,8 @@
   * Time stamp
     * Bio-Formats importer -> check "OME-XML" -> see deltaT
     * How to overlay deltaT on video? 
-  * unit calibration
+  * Calcium imaging
+  * unit (position) calibration
 * Done:
   * Auto-exposure: done
   * Check if MDA file contains scripts: only contains settings
