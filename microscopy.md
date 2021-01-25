@@ -1,5 +1,7 @@
 * To do: 
   * Time stamp
+    * Option > save metadata as text
+    * How to overlay deltaT on video? 
   * unit calibration
 * Done:
   * Auto-exposure: done
