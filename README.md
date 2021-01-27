@@ -22,5 +22,6 @@ for taking notes
   * might be useful: [Recommended reading by SVI](https://svi.nl/RecommendedReading)
 
 ### currently learning...
+* [MIT computational and systems biology](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)
 * [YouTube demo](https://www.youtube.com/channel/UCiobBP6iDHd6bC2wwbidhWQ) and [生化實驗2010](https://sites.google.com/site/cgubcstdexp2/Home/shi-yan-jiang-yi)
 * [Monarch Initiative](https://monarchinitiative.org/)
