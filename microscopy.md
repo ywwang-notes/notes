@@ -23,8 +23,6 @@
       [user guide](https://depts.washington.edu/digmicro/huygens_pdf/ProfessionalUserGuide1505.pdf)
   
 * [Andor Zyla](https://github.com/ywwang-notes/notes/blob/master/Andor.md)
-  1. [Windows](https://www.scivision.dev/andor-neo-windows-sdk3-install/)
-  1. Labs: Chiang‐Ting Chien (NTNU)
 * µManager (micro-manager)
   * [Forum](https://forum.image.sc/top/weekly) (login with Github)
   * Find my scripts [here](https://github.com/ywwang-notes/MicroManager)
