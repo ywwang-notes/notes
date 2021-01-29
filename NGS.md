@@ -4,6 +4,7 @@
 * Quality report
 
 ### Gino
+* [TRIzol Reagent](https://www.thermofisher.com/order/catalog/product/15596026#/15596026)
 * [QIAseq miRNA Library Kit](https://www.qiagen.com/tw/products/discovery-and-translational-research/next-generation-sequencing/metagenomics/qiaseq-mirna-ngs/?clear=true#productdetails)
 
 ### Basics
