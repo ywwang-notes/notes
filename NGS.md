@@ -1,3 +1,6 @@
+### Questions
+* example: TAAGTGCTATTTGTTGGGGTAG in 24CSh1
+
 ### Basics
 [NYU Next-Generation Sequencing Analysis Resources](https://learn.gencore.bio.nyu.edu)
 
