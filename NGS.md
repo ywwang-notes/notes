@@ -1,5 +1,10 @@
 ### Questions
-* example: TAAGTGCTATTTGTTGGGGTAG in 24CSh1
+* trimming?? example: TAAGTGCTATTTGTTGGGGTAG in 24CSh1
+* reads: 75SE?
+* Quality report
+
+### Gino
+* [QIAseq miRNA Library Kit](https://www.qiagen.com/tw/products/discovery-and-translational-research/next-generation-sequencing/metagenomics/qiaseq-mirna-ngs/?clear=true#productdetails)
 
 ### Basics
 [NYU Next-Generation Sequencing Analysis Resources](https://learn.gencore.bio.nyu.edu)
