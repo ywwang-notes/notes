@@ -6,6 +6,7 @@
 ### Gino
 * [TRIzol Reagent](https://www.thermofisher.com/order/catalog/product/15596026#/15596026)
 * [QIAseq miRNA Library Kit](https://www.qiagen.com/tw/products/discovery-and-translational-research/next-generation-sequencing/metagenomics/qiaseq-mirna-ngs/?clear=true#productdetails)
+* [RNA 6000 labchip kit](https://ipmb.sinica.edu.tw/microarray/workshop/workshop-11.pdf)
 
 ### Basics
 [NYU Next-Generation Sequencing Analysis Resources](https://learn.gencore.bio.nyu.edu)
