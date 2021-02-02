@@ -1,5 +1,5 @@
 ### Questions
-* transcribed fragments (precursor, pri-RNA, etc)?
+* transcribed fragments (precursor, pri-RNA, protein-bound RNA, etc)? All 
 
 ### Protocol
 * adapter?
