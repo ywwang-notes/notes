@@ -1,5 +1,9 @@
 ### Questions
-* trimming?? example: TAAGTGCTATTTGTTGGGGTAG in 24CSh1
+* transcribed fragments (precursor, pri-RNA, etc)?
+
+### Protocol
+* adapter?
+* library prep: length selection?
 * reads: 75SE?
 * Quality report
 
