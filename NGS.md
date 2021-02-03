@@ -7,9 +7,9 @@
 * reads: 75SE?
 * Quality report
 
-### Gino
+### Welgene
 * [TRIzol Reagent](https://www.thermofisher.com/order/catalog/product/15596026#/15596026)
-* [QIAseq miRNA Library Kit](https://www.qiagen.com/tw/products/discovery-and-translational-research/next-generation-sequencing/metagenomics/qiaseq-mirna-ngs/?clear=true#productdetails): [AACTGTAGGCACCATCAAT](https://www.qiagen.com/us/resources/faq?id=f12b85b4-df4f-43b5-9e82-a4fd0ddbdcc0&lang=en)
+* [QIAseq miRNA Library Kit](https://www.qiagen.com/tw/products/discovery-and-translational-research/next-generation-sequencing/metagenomics/qiaseq-mirna-ngs/?clear=true#productdetails): [AACTGTAGGCACCATCAAT](https://www.qiagen.com/us/resources/faq?id=f12b85b4-df4f-43b5-9e82-a4fd0ddbdcc0&lang=en); [Illumina adapter sequences](https://sapac.support.illumina.com/downloads/illumina-adapter-sequences-document-1000000002694.html)
 * [RNA 6000 labchip kit](https://ipmb.sinica.edu.tw/microarray/workshop/workshop-11.pdf)
 
 ### Basics
