@@ -15,6 +15,9 @@
 ### Basics
 [NYU Next-Generation Sequencing Analysis Resources](https://learn.gencore.bio.nyu.edu)
 
+### Un-sorted
+DeSeq, miRNA 19-d, 
+
 ### Fastq
 * a fast way to count reads: `echo $(cat filename.fastq|wc -l)/4|bc`
 * useful commands: `head`, `tail`, `ls -hl`
