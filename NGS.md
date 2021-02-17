@@ -15,8 +15,9 @@
 ### miRNA-seq data processing
 * [QIAseq® miRNA Primary Quantification](https://www.qiagen.com/us/resources/resourcedetail?id=bea2dcfa-0a5c-47c5-afd8-8b0fe90a471a&lang=en)
 * Trimmomatic
-  * $@.fastq $@-trim.fastq ILLUMINACLIP:/mnt/d/Project/Trimmomatic-0.39/adapters/QIAseq.fa:2:30:10 -trimlog $@-trim.log SLIDINGWINDOW:4:15
-
+```
+$@.fastq $@-trim.fastq ILLUMINACLIP:/mnt/d/Project/Trimmomatic-0.39/adapters/QIAseq.fa:2:30:10 -trimlog $@-trim.log SLIDINGWINDOW:4:15
+```
 ### Basics
 [NYU Next-Generation Sequencing Analysis Resources](https://learn.gencore.bio.nyu.edu)
 
