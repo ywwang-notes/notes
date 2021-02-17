@@ -14,6 +14,8 @@
 
 ### miRNA-seq data processing
 * [QIAseq® miRNA Primary Quantification](https://www.qiagen.com/us/resources/resourcedetail?id=bea2dcfa-0a5c-47c5-afd8-8b0fe90a471a&lang=en)
+* Trimmomatic
+  * $@.fastq $@-trim.fastq ILLUMINACLIP:/mnt/d/Project/Trimmomatic-0.39/adapters/QIAseq.fa:2:30:10 -trimlog $@-trim.log SLIDINGWINDOW:4:15
 
 ### Basics
 [NYU Next-Generation Sequencing Analysis Resources](https://learn.gencore.bio.nyu.edu)
@@ -32,7 +34,7 @@ DeSeq, miRNA 19-d,
   * `sed 's/^ *//' output.txt | more`
   * `awk '/\../ {print $1 "\t" $2}' output.txt | sed 's/\.//g' | tr [:lower:] [:upper:] | more`
   * `for file in *.pdf; do pdftotext -layout "$file" "$(basename $file .pdf).txt"; done`
-* example
+* examples
 ```
 for file in *.pdf; do pdftotext -layout "$file" "txt/$(basename $file .pdf).txt"; echo $file; done
 for file in dre-*.txt; do sed 's/^ *//' $file | awk -v src=$file '/\.\./ {print $1 "\t" $2 "\t" src}' | sed 's/\.//g' | sed '/^(/d' | tr [:lower:] [:upper:] >> dre.txt; echo $file; done
