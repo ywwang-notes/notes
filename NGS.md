@@ -12,6 +12,9 @@
 * [QIAseq miRNA Library Kit](https://www.qiagen.com/tw/products/discovery-and-translational-research/next-generation-sequencing/metagenomics/qiaseq-mirna-ngs/?clear=true#productdetails): [AACTGTAGGCACCATCAAT](https://www.qiagen.com/us/resources/faq?id=f12b85b4-df4f-43b5-9e82-a4fd0ddbdcc0&lang=en); [Illumina adapter sequences](https://sapac.support.illumina.com/downloads/illumina-adapter-sequences-document-1000000002694.html)
 * [RNA 6000 labchip kit](https://ipmb.sinica.edu.tw/microarray/workshop/workshop-11.pdf)
 
+### miRNA-seq data processing
+* [QIAseq® miRNA Primary Quantification](https://www.qiagen.com/us/resources/resourcedetail?id=bea2dcfa-0a5c-47c5-afd8-8b0fe90a471a&lang=en)
+
 ### Basics
 [NYU Next-Generation Sequencing Analysis Resources](https://learn.gencore.bio.nyu.edu)
 
