@@ -22,7 +22,7 @@ $@.fastq $@-trim.fastq ILLUMINACLIP:/mnt/d/Project/Trimmomatic-0.39/adapters/QIA
 [NYU Next-Generation Sequencing Analysis Resources](https://learn.gencore.bio.nyu.edu)
 
 ### Un-sorted
-DeSeq, miRNA 19-d, 
+DeSeq, miRNA 19-d, [DAVID functional annotation](https://david.ncifcrf.gov/summary.jsp)
 
 ### Fastq
 * a fast way to count reads: `echo $(cat filename.fastq|wc -l)/4|bc`
