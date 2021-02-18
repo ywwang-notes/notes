@@ -18,6 +18,8 @@
 ```
 $@.fastq $@-trim.fastq ILLUMINACLIP:/mnt/d/Project/Trimmomatic-0.39/adapters/QIAseq.fa:2:30:10 -trimlog $@-trim.log SLIDINGWINDOW:4:15
 ```
+* miRNA prediction: chapter 6 in Computational Epigenetics and Diseases
+
 ### Basics
 [NYU Next-Generation Sequencing Analysis Resources](https://learn.gencore.bio.nyu.edu)
 
