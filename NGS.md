@@ -1,9 +1,9 @@
 ### Questions
 * transcribed fragments (precursor, pri-RNA, protein-bound RNA, etc)? All 
 
-### [Basics]
+### Basics
   * [NYU Next-Generation Sequencing Analysis Resources](https://learn.gencore.bio.nyu.edu/)  
-  * [FastA](https://learn.gencore.bio.nyu.edu/ngs-file-formats/quality-scores/)
+  * [Fastq](https://learn.gencore.bio.nyu.edu/ngs-file-formats/quality-scores/)
   * [Quality Score Encoding](https://support.illumina.com/help/BaseSpace_OLH_009008/Content/Source/Informatics/BS/QualityScoreEncoding_swBS.htm)
 
 ### Protocol
@@ -25,7 +25,7 @@ $@.fastq $@-trim.fastq ILLUMINACLIP:/mnt/d/Project/Trimmomatic-0.39/adapters/QIA
 ### Un-sorted
 DeSeq, miRNA 19-d, [DAVID functional annotation](https://david.ncifcrf.gov/summary.jsp)
 
-### ubuntu
+### Ubuntu commands
 * a fast way to count reads: `echo $(cat filename.fastq|wc -l)/4|bc`
 * useful commands: `head`, `tail`, `ls -hl`
 * search a pattern: `grep "some pattern" filename.fastq` (better use after converting fastq into tabbed table)
