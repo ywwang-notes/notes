@@ -1,11 +1,13 @@
 ### Questions
 * transcribed fragments (precursor, pri-RNA, protein-bound RNA, etc)? All 
 
+### [Basics]
+  * [NYU Next-Generation Sequencing Analysis Resources](https://learn.gencore.bio.nyu.edu/)  
+  * [FastA](https://learn.gencore.bio.nyu.edu/ngs-file-formats/quality-scores/)
+  * [Quality Score Encoding](https://support.illumina.com/help/BaseSpace_OLH_009008/Content/Source/Informatics/BS/QualityScoreEncoding_swBS.htm)
+
 ### Protocol
-* adapter?
-* library prep: length selection?
 * reads: 75SE?
-* Quality report
 
 ### Welgene
 * [TRIzol Reagent](https://www.thermofisher.com/order/catalog/product/15596026#/15596026)
@@ -20,13 +22,10 @@ $@.fastq $@-trim.fastq ILLUMINACLIP:/mnt/d/Project/Trimmomatic-0.39/adapters/QIA
 ```
 * miRNA prediction: chapter 6 in Computational Epigenetics and Diseases
 
-### Basics
-[NYU Next-Generation Sequencing Analysis Resources](https://learn.gencore.bio.nyu.edu)
-
 ### Un-sorted
 DeSeq, miRNA 19-d, [DAVID functional annotation](https://david.ncifcrf.gov/summary.jsp)
 
-### Fastq
+### ubuntu
 * a fast way to count reads: `echo $(cat filename.fastq|wc -l)/4|bc`
 * useful commands: `head`, `tail`, `ls -hl`
 * search a pattern: `grep "some pattern" filename.fastq` (better use after converting fastq into tabbed table)
