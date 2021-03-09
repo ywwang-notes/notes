@@ -6,13 +6,18 @@
   * [Fastq](https://learn.gencore.bio.nyu.edu/ngs-file-formats/quality-scores/)
   * [Quality Score Encoding](https://support.illumina.com/help/BaseSpace_OLH_009008/Content/Source/Informatics/BS/QualityScoreEncoding_swBS.htm)
 
-### Protocol
-* reads: 75SE?
-
 ### Welgene
 * [TRIzol Reagent](https://www.thermofisher.com/order/catalog/product/15596026#/15596026)
 * [QIAseq miRNA Library Kit](https://www.qiagen.com/tw/products/discovery-and-translational-research/next-generation-sequencing/metagenomics/qiaseq-mirna-ngs/?clear=true#productdetails): [AACTGTAGGCACCATCAAT](https://www.qiagen.com/us/resources/faq?id=f12b85b4-df4f-43b5-9e82-a4fd0ddbdcc0&lang=en); [Illumina adapter sequences](https://sapac.support.illumina.com/downloads/illumina-adapter-sequences-document-1000000002694.html)
 * [RNA 6000 labchip kit](https://ipmb.sinica.edu.tw/microarray/workshop/workshop-11.pdf)
+
+### CLC
+* [Biomedical Genomics Analysis](https://resources.qiagenbioinformatics.com/manuals/biomedicalgenomicsanalysis/current/index.php?manual=Introduction.html) 
+  * Ready to use workflows: QIAseq miRNA Quantification, QIAseq miRNA Differential Expression
+  * Tools: QIASeq miRNA expert tools / Create UMI Reads for miRNA
+* Tools: 
+  [Map Reads to Reference](http://resources.qiagenbioinformatics.com/manuals/clcgenomicsworkbench/900/index.php?manual=Exploring_novel_miRNAs.html), 
+  RNA-Seq and small RNA analysis / miRNA analysis / Quantify miRNA 
 
 ### miRNA-seq data processing
 * [QIAseq® miRNA Primary Quantification](https://www.qiagen.com/us/resources/resourcedetail?id=bea2dcfa-0a5c-47c5-afd8-8b0fe90a471a&lang=en)
