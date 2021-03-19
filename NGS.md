@@ -17,7 +17,7 @@
   * Tools: QIASeq miRNA expert tools / Create UMI Reads for miRNA
 * Tools: 
   [Map Reads to Reference](http://resources.qiagenbioinformatics.com/manuals/clcgenomicsworkbench/900/index.php?manual=Exploring_novel_miRNAs.html), 
-  RNA-Seq and small RNA analysis / miRNA analysis / Quantify miRNA 
+  RNA-Seq and small RNA analysis / miRNA analysis / Quantify miRNA; RNA-Seq Analysis (for unmapped reads)
 
 ### miRNA-seq data processing
 * [QIAseq® miRNA Primary Quantification](https://www.qiagen.com/us/resources/resourcedetail?id=bea2dcfa-0a5c-47c5-afd8-8b0fe90a471a&lang=en)
