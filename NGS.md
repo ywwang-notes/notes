@@ -44,6 +44,7 @@ DeSeq, miRNA 19-d, [DAVID functional annotation](https://david.ncifcrf.gov/summa
   * `sort -t, -k4,4 filename`: file contains comma separated columns; sort by 4th to 4th column(s)  
   * `awk -F',' '{print $4}' file | sort -u`: extract unique elements from the 4th column in a comma-separated file
   * `sed $'s/[^[:print:]\t]//g' < input > outout`: remove special characters
+  * `od -c filename | more`: check special characters
 * examples
 ```
 for file in *.pdf; do pdftotext -layout "$file" "txt/$(basename $file .pdf).txt"; echo $file; done
