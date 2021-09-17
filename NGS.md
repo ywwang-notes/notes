@@ -41,6 +41,7 @@ DeSeq, miRNA 19-d, [DAVID functional annotation](https://david.ncifcrf.gov/summa
   * `sed 's/^ *//' output.txt | more`
   * `awk '/\../ {print $1 "\t" $2}' output.txt | sed 's/\.//g' | tr [:lower:] [:upper:] | more`
   * `for file in *.pdf; do pdftotext -layout "$file" "$(basename $file .pdf).txt"; done`
+  * `sort -t, -k4,4 filename`: file contains comma separated columns; sort by 4th to 4th column(s)  
 * examples
 ```
 for file in *.pdf; do pdftotext -layout "$file" "txt/$(basename $file .pdf).txt"; echo $file; done
