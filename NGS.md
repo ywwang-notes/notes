@@ -42,6 +42,7 @@ DeSeq, miRNA 19-d, [DAVID functional annotation](https://david.ncifcrf.gov/summa
   * `awk '/\../ {print $1 "\t" $2}' output.txt | sed 's/\.//g' | tr [:lower:] [:upper:] | more`
   * `for file in *.pdf; do pdftotext -layout "$file" "$(basename $file .pdf).txt"; done`
   * `sort -t, -k4,4 filename`: file contains comma separated columns; sort by 4th to 4th column(s)  
+  * `awk -F',' '{print $4}' file | sort -u`: extract unique elements from the 4th column in a comma-separated file
 * examples
 ```
 for file in *.pdf; do pdftotext -layout "$file" "txt/$(basename $file .pdf).txt"; echo $file; done
